@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://osirischau-design.github.io/xuonggiagoc/sitemap.xml

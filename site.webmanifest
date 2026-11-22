@@ -1,0 +1,16 @@
+{
+  "name": "Xưởng Giá Gốc",
+  "short_name": "Xưởng Giá Gốc",
+  "lang": "vi",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "img/brand/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
